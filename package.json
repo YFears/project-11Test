@@ -13,7 +13,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mkdirp": "^1.0.3"
   },
   "devDependencies": {
